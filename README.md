@@ -9,3 +9,8 @@
 ## Day 2 Blury Image Loading App
 
 ![blury loading](https://user-images.githubusercontent.com/64098042/199121068-042afb03-78aa-4bc7-a6da-1882557fcc5e.png)
+
+## Day 3 Vertical Image Slider App
+
+![Image Slider](https://user-images.githubusercontent.com/64098042/199296238-8fe43804-e8d4-435f-b786-0fdedbe5d742.png)
+
