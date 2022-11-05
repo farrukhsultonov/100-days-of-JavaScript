@@ -22,4 +22,6 @@
 
 <img width="737" alt="Random Num" src="https://user-images.githubusercontent.com/64098042/199847974-264ac0e4-24da-40fa-b89a-8334268198ae.png">
 
+## Day 6 Counter App
 
+![Counter App](https://user-images.githubusercontent.com/64098042/200127868-04ae34ed-bd15-4f6f-805d-a1ace1070652.png)
