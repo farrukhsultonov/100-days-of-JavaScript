@@ -25,3 +25,7 @@
 ## Day 6 Counter App
 
 ![Counter App](https://user-images.githubusercontent.com/64098042/200127868-04ae34ed-bd15-4f6f-805d-a1ace1070652.png)
+
+## Day 7 Input Counter App
+
+![Input Counter](https://user-images.githubusercontent.com/64098042/200184274-f09fb217-f712-4ca5-9ecd-1c869de4d0d8.png)
