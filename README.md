@@ -38,6 +38,10 @@
 
 ![Analog Clock](https://user-images.githubusercontent.com/64098042/200959991-8f588dd4-5a7b-4047-9073-5f78a53771c3.png)
 
+## Day 10 Popup Modal
+
+![Popup Modal](https://user-images.githubusercontent.com/64098042/201255382-1281fb54-6162-4f15-b25e-e2f6592ff945.png)
+
 
 
 
