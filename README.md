@@ -50,4 +50,7 @@
 
 ![User Filter](https://user-images.githubusercontent.com/64098042/201480072-5c9e7341-dd2f-4254-9d1b-322f7369937d.png)
 
+## Day 13 Color Selector
+
+![color-selector](https://user-images.githubusercontent.com/64098042/202062056-26df7762-0380-474b-8f73-0d17e262b5ed.png)
 
