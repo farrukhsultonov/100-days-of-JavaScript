@@ -52,5 +52,6 @@
 
 ## Day 13 Color Selector
 
-![color-selector](https://user-images.githubusercontent.com/64098042/202062056-26df7762-0380-474b-8f73-0d17e262b5ed.png)
+![color selector](https://user-images.githubusercontent.com/64098042/202069887-5fcc2303-aa73-4a1c-9f90-ec0b95512e5a.png)
+
 
