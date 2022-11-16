@@ -32,17 +32,18 @@ p {
 }
 
 .red {
-  background-color: red;
+  background-color: 
+  #da4f5c;
 }
 
 .white {
-  background-color: white;
+  background-color: #f8fafb;
 }
 
 .blue {
-  background-color: blue;
+  background-color: #c7eef4;
 }
 
 .yellow {
-  background-color: yellow;
+  background-color: #e2af37;
 }
