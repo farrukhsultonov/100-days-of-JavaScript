@@ -79,10 +79,11 @@ input:focus {
 
 /* make list containers flex */
 #to-do-list,  #completed {
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
   flex-basis: 40%;
   margin: 1em;
+  font-size: large;
 }
 
 /* style list items, common styles */
