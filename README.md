@@ -70,3 +70,6 @@
 
 ![Tic-Tac-Toe](https://user-images.githubusercontent.com/64098042/202873490-aac36dc6-a820-4d23-9fc4-e969cd5331f9.png)
 
+## Day 17 Roll Dice
+
+<img width="426" alt="Roll Dice" src="https://user-images.githubusercontent.com/64098042/203089935-111315ac-44b0-4452-a5b2-c8d6aa39d419.png">
