@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="wrapper">
-        <textarea>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit facilis vitae odit natus inventore quibusdam rem, totam esse error excepturi, dignissimos rerum nobis. Ad, in numquam! Sint esse illum explicabo.</textarea>
+        <textarea required placeholder="Enter text to save"></textarea>
         <div class="file-options">
             <div class="option file-name">
                 <label>File Name</label>
@@ -19,12 +19,13 @@
                 <label>Save as</label>
                 <div class="select-menu">
                     <select>
-                        <option value="">Text File (.txt)</option>
-                        <option value="">JS File (.js)</option>
-                        <option value="">HTML File (.html)</option>
-                        <option value="">SVG File (.svg)</option>
-                        <option value="">Doc File (.doc)</option>
-                        <option value="">PPT File (.ppt)</option>
+                        <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types -->
+                        <option value="text/plain">Text File (.txt)</option>
+                        <option value="text/javascript">JS File (.js)</option>
+                        <option value="text/html">HTML File (.html)</option>
+                        <option value="image/svg+xml">SVG File (.svg)</option>
+                        <option value="application/msword">Doc File (.doc)</option>
+                        <option value="application/vnd.ms-powerpoint">PPT File (.ppt)</option>
                     </select>
                 </div>
             </div>
