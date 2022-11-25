@@ -80,3 +80,4 @@
 
 ## Day 20 Save-Text-As-File
 
+<img width="818" alt="Save-Text-As-File" src="https://user-images.githubusercontent.com/64098042/204007911-dfbf94f3-0e7a-4e06-92a4-ab131c3aebc8.png">
