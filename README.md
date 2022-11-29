@@ -86,4 +86,6 @@
 
 <img width="539" alt="Word Guess" src="https://user-images.githubusercontent.com/64098042/204430064-c2185ce0-0bc0-460e-919c-3fc74801f608.png">
 
+## Day 22 Drag & Drop
 
+<img width="772" alt="Drag   Drop" src="https://user-images.githubusercontent.com/64098042/204659753-4a04ef70-7dd0-4406-938a-af6a591abc0a.png">
